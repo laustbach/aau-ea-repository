@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application cooperation"
+    id="0c956159-266b-45ed-b986-7f52acb20c0e"
+    viewpoint="application_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3809fb60-024d-4058-bd19-821fd501fbb2">
+    <bounds
+        x="517"
+        y="362"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_58c34401-b210-43a6-afc5-6037a5c698e4.xml#58c34401-b210-43a6-afc5-6037a5c698e4"/>
+  </children>
+</archimate:ArchimateDiagramModel>
