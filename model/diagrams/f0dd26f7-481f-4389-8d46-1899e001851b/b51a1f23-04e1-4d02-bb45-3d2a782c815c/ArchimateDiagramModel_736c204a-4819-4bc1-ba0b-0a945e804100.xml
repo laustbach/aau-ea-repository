@@ -103,8 +103,8 @@
     <bounds
         x="441"
         y="564"
-        width="120"
-        height="55"/>
+        width="136"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_5968c4ce-d50b-41cc-ae60-ef9561ef842b.xml#5968c4ce-d50b-41cc-ae60-ef9561ef842b"/>
@@ -116,8 +116,8 @@
     <bounds
         x="441"
         y="472"
-        width="120"
-        height="55"/>
+        width="136"
+        height="69"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_014dda53-4911-46d3-b406-f864a3c3fce5.xml#014dda53-4911-46d3-b406-f864a3c3fce5"/>
@@ -142,8 +142,8 @@
     <bounds
         x="441"
         y="756"
-        width="120"
-        height="55"/>
+        width="136"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_a00de213-63d7-4cba-85eb-6983b368339b.xml#a00de213-63d7-4cba-85eb-6983b368339b"/>
@@ -168,8 +168,8 @@
     <bounds
         x="440"
         y="384"
-        width="120"
-        height="55"/>
+        width="148"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_73d4f3eb-0638-4835-91c6-152080e27d6b.xml#73d4f3eb-0638-4835-91c6-152080e27d6b"/>
@@ -181,8 +181,8 @@
     <bounds
         x="444"
         y="300"
-        width="120"
-        height="55"/>
+        width="144"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_814728ed-91db-4e59-85d1-54ee1f6e57bd.xml#814728ed-91db-4e59-85d1-54ee1f6e57bd"/>
@@ -194,8 +194,8 @@
     <bounds
         x="440"
         y="216"
-        width="120"
-        height="55"/>
+        width="148"
+        height="67"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_49ab4a61-b470-4e52-a103-025c8e82be09.xml#49ab4a61-b470-4e52-a103-025c8e82be09"/>
@@ -207,8 +207,8 @@
     <bounds
         x="441"
         y="132"
-        width="120"
-        height="55"/>
+        width="148"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_ab3df894-2afa-4cf0-b64f-6f0d09371470.xml#ab3df894-2afa-4cf0-b64f-6f0d09371470"/>
