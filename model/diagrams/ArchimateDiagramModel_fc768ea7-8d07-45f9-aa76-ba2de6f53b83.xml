@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="fc768ea7-8d07-45f9-aa76-ba2de6f53b83"/>
+    name="Vejledning"
+    id="fc768ea7-8d07-45f9-aa76-ba2de6f53b83">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8a529339-3815-476b-817d-df621923c9a4"
+      textAlignment="1"
+      content="De enkelte modeller kan forefindes under &quot;Views&quot; folder i venstre menu.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Hver applikations domæne er repreæsenteret under &quot;views&quot; hvis det er modelleret. Under eksempelvis &quot;RES&quot; &#xD;&#xA;vil der være repræsenteret den enkelte view af hvordan RES og rellateret applikationer hænger sammen.&#xD;&#xA;">
+    <bounds
+        x="474"
+        y="408"
+        width="709"
+        height="157"/>
+  </children>
+</archimate:ArchimateDiagramModel>
