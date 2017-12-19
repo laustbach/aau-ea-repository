@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stads application behavior"
+    id="1820c8c9-ff5c-4b3c-82b2-a54f3c36cdc8"
+    viewpoint="application_usage">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="479ef35f-b862-4f03-b72e-a1ab41c136e1">
+    <bounds
+        x="492"
+        y="648"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a0f4dd5f-7985-4605-827e-c55c417d2bd2">
+    <bounds
+        x="1584"
+        y="648"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_f1120eda-64c4-4002-94a8-4b0dcfe8c8ac.xml#f1120eda-64c4-4002-94a8-4b0dcfe8c8ac"/>
+  </children>
+</archimate:ArchimateDiagramModel>
