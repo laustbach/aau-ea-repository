@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Process Cooperation"
+    name="RES process Cooperation"
     id="736c204a-4819-4bc1-ba0b-0a945e804100">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -14,15 +14,6 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_af2e1caa-1b76-41bd-ab4c-3dc623cb3821.xml#af2e1caa-1b76-41bd-ab4c-3dc623cb3821"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1f12c2df-6eb0-4b86-a723-6664b983a496"
-        source="d2a38ec8-1cc8-4fa8-8ff0-27a120e07d0a"
-        target="0be09c88-e556-4988-bf80-ee817b2099b8">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_b9492695-61e6-4389-9210-d8579f9c42bf.xml#b9492695-61e6-4389-9210-d8579f9c42bf"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -140,8 +131,8 @@
       id="0ad18372-043c-4539-bbc0-63fe8209316c"
       targetConnections="7218acc1-0ec2-40f3-8302-aabfff1323c5 ca8cf795-7c67-46bb-987c-5f8ee6c66129">
     <bounds
-        x="441"
-        y="756"
+        x="432"
+        y="753"
         width="136"
         height="61"/>
     <archimateElement
@@ -163,24 +154,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="0be09c88-e556-4988-bf80-ee817b2099b8"
-      targetConnections="1f12c2df-6eb0-4b86-a723-6664b983a496">
-    <bounds
-        x="440"
-        y="384"
-        width="148"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_73d4f3eb-0638-4835-91c6-152080e27d6b.xml#73d4f3eb-0638-4835-91c6-152080e27d6b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="278191c6-8360-47d1-9205-b30fe2b4d033"
       targetConnections="fd82b55b-b5ab-4b32-be82-dbe4579451c5">
     <bounds
-        x="444"
-        y="300"
+        x="437"
+        y="372"
         width="144"
         height="61"/>
     <archimateElement
@@ -192,8 +170,8 @@
       id="f9b4df80-6f92-44a1-88ec-16176de2000f"
       targetConnections="1f6274f4-a700-4c98-8529-24e44c3b2003">
     <bounds
-        x="440"
-        y="216"
+        x="441"
+        y="264"
         width="148"
         height="67"/>
     <archimateElement
@@ -205,8 +183,8 @@
       id="5ac0f0de-76b5-45bc-bf79-a3faba7ac3ee"
       targetConnections="b5dc5186-340b-4568-a127-04c73f913c98 a232c6b0-b575-4ba4-a71a-469dc02c11eb">
     <bounds
-        x="441"
-        y="132"
+        x="435"
+        y="168"
         width="148"
         height="61"/>
     <archimateElement

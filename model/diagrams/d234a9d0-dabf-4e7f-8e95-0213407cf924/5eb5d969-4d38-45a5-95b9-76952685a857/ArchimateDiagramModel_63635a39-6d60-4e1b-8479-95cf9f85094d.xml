@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitaleksamen application cooperation"
+    id="63635a39-6d60-4e1b-8479-95cf9f85094d"
+    viewpoint="application_cooperation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c7bf8b73-21c3-46b2-b5e1-ee0f531c5e10"
+      targetConnections="8adf4afb-8759-4bfc-a373-d382ffbca29e">
+    <bounds
+        x="585"
+        y="302"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_afc96ae2-41c6-49d8-bfbf-05ce82991d45.xml#afc96ae2-41c6-49d8-bfbf-05ce82991d45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="600dec0e-ee5f-40ea-baf4-f8f796a2513a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8adf4afb-8759-4bfc-a373-d382ffbca29e"
+        source="600dec0e-ee5f-40ea-baf4-f8f796a2513a"
+        target="c7bf8b73-21c3-46b2-b5e1-ee0f531c5e10">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_507edeaf-cac5-4a51-b7da-87d684c2099a.xml#507edeaf-cac5-4a51-b7da-87d684c2099a"/>
+    </sourceConnections>
+    <bounds
+        x="312"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  </children>
+</archimate:ArchimateDiagramModel>
