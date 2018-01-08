@@ -7,9 +7,9 @@
       xsi:type="archimate:DiagramModelNote"
       id="8a529339-3815-476b-817d-df621923c9a4"
       textAlignment="1"
-      content="De enkelte modeller kan forefindes under &quot;Views&quot; folder i venstre menu.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Hver applikations domæne er repreæsenteret under &quot;views&quot; hvis det er modelleret. Under eksempelvis &quot;RES&quot; &#xD;&#xA;vil der være repræsenteret den enkelte view af hvordan RES og rellateret applikationer hænger sammen.&#xD;&#xA;">
+      content="De enkelte modeller kan forefindes under &quot;Views&quot; folder i venstre menu.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Hver applikations domæne er repreæsenteret under &quot;views&quot; hvis det er modelleret. Under eksempelvis &quot;RES&quot; &#xD;&#xA;vil der være repræsenteret den enkelte view af hvordan RES og rellateret applikationer hænger sammen.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;https://www.archimatetool.com/downloads/release/Archi%20User%20Guide.pdf">
     <bounds
-        x="84"
+        x="72"
         y="96"
         width="709"
         height="157"/>

@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application"
     id="f5015198-f8e5-48e6-8eb7-3de7177cba5e"
-    type="application"/>
+    type="application">
+  <properties
+      key="Slut dato"/>
+  <properties
+      key="Start dato"/>
+  <properties
+      key="Version"/>
+</archimate:Folder>
