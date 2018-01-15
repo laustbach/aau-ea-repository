@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opgave aflevering"
+    id="de846d06-be52-41a8-83ff-b61753053864">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_32f0e484-92ea-4981-9a62-058cd8a5e8be.xml#32f0e484-92ea-4981-9a62-058cd8a5e8be"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a49c6b71-64f9-4036-ab49-8c5a70dba34d.xml#a49c6b71-64f9-4036-ab49-8c5a70dba34d"/>
+</archimate:FlowRelationship>

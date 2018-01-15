@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information om udbudte eksamensaktiviteter"
+    id="7156792c-e435-4a3c-b59c-a257713480e7">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_f89ab688-ce3e-4ec1-bc08-37166ae68149.xml#f89ab688-ce3e-4ec1-bc08-37166ae68149"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_32f0e484-92ea-4981-9a62-058cd8a5e8be.xml#32f0e484-92ea-4981-9a62-058cd8a5e8be"/>
+</archimate:FlowRelationship>

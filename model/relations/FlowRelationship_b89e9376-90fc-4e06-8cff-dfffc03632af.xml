@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedømmelse"
+    id="b89e9376-90fc-4e06-8cff-dfffc03632af">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ea441629-712b-44fd-933f-6573f9c6ec83.xml#ea441629-712b-44fd-933f-6573f9c6ec83"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a49c6b71-64f9-4036-ab49-8c5a70dba34d.xml#a49c6b71-64f9-4036-ab49-8c5a70dba34d"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksaminator eksaminering"
+    id="6f8418fd-a732-49af-b23b-b56d65d1074a">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_de92027b-360f-42b7-a5d5-6f42d20e271a.xml#de92027b-360f-42b7-a5d5-6f42d20e271a"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_60d0f6c5-3911-4840-8c2a-992bea3cc64e.xml#60d0f6c5-3911-4840-8c2a-992bea3cc64e"/>
+</archimate:ServingRelationship>
