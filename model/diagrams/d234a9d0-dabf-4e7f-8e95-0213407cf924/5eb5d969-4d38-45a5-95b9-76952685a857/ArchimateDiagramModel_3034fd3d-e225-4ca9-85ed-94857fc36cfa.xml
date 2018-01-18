@@ -1,4 +1,54 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital eksamen application behavior 2"
-    id="3034fd3d-e225-4ca9-85ed-94857fc36cfa"/>
+    id="3034fd3d-e225-4ca9-85ed-94857fc36cfa">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dd6913e3-c28b-4428-b4a0-2b0d1ceb86b1">
+    <bounds
+        x="324"
+        y="72"
+        width="145"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_f106cb12-0217-4df5-b52d-064d1a83f60c.xml#f106cb12-0217-4df5-b52d-064d1a83f60c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3719dddc-869c-4de6-82ad-6d90be8817b8">
+    <bounds
+        x="540"
+        y="72"
+        width="145"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_745c8a13-1cd3-4049-9372-a89c15a3ed3c.xml#745c8a13-1cd3-4049-9372-a89c15a3ed3c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="35552589-4049-43f6-9d0a-9909f8bdfad8">
+    <bounds
+        x="744"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_7e58b0cd-a124-4d6d-bdc9-60ac9ec2b7f6.xml#7e58b0cd-a124-4d6d-bdc9-60ac9ec2b7f6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a9664df4-eb0b-489a-a712-0273e04a36db">
+    <bounds
+        x="924"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_55835414-f526-4ff1-8db6-510e368fd09d.xml#55835414-f526-4ff1-8db6-510e368fd09d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

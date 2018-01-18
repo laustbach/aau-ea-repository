@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scanpas ansat data"
+    id="b8433cc2-d5be-4255-a0b8-9c541b2c4ba6">
+  <properties
+      key="Start dato"/>
+  <properties
+      key="Slut dato"/>
+  <properties
+      key="Version"/>
+</archimate:DataObject>
