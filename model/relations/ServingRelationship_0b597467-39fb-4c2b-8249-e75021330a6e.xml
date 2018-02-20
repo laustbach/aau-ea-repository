@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilmeld studerende til eksamensaktivitet"
+    id="0b597467-39fb-4c2b-8249-e75021330a6e">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_940f3d75-73e4-4e8f-84d4-bae53e091642.xml#940f3d75-73e4-4e8f-84d4-bae53e091642"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a35866d1-6cae-4ea4-a5ab-a49424fb00ad.xml#a35866d1-6cae-4ea4-a5ab-a49424fb00ad"/>
+</archimate:ServingRelationship>

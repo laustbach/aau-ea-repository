@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prøveplanlægning"
+    id="430d9bf0-52b2-4ed4-baf8-bf179f9d179b">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_de92027b-360f-42b7-a5d5-6f42d20e271a.xml#de92027b-360f-42b7-a5d5-6f42d20e271a"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_b23e5de6-bab3-4c43-9ac9-6cf87a338437.xml#b23e5de6-bab3-4c43-9ac9-6cf87a338437"/>
+</archimate:ServingRelationship>

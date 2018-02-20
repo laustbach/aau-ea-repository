@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ændringer til tilmeldinger til eksamensaktiviteter"
+    id="38a704e2-8938-41ab-9e93-9e42b6bee874">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_32f0e484-92ea-4981-9a62-058cd8a5e8be.xml#32f0e484-92ea-4981-9a62-058cd8a5e8be"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a6341868-9372-4d80-be99-9d906447d1e6.xml#a6341868-9372-4d80-be99-9d906447d1e6"/>
+</archimate:FlowRelationship>

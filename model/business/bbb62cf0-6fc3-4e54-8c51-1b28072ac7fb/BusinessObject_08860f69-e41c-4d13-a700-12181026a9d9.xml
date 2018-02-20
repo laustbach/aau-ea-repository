@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrativ enhed"
+    id="08860f69-e41c-4d13-a700-12181026a9d9">
+  <properties
+      key="Slut dato"/>
+  <properties
+      key="fornavn "
+      value="string"/>
+  <properties
+      key="Start dato"/>
+  <properties
+      key="Version"/>
+</archimate:BusinessObject>

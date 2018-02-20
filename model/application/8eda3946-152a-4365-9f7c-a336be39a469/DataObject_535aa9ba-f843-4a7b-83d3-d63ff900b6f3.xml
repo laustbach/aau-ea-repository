@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraværs data"
+    id="535aa9ba-f843-4a7b-83d3-d63ff900b6f3">
+  <properties
+      key="Start dato"/>
+  <properties
+      key="Slut dato"/>
+  <properties
+      key="Version"/>
+</archimate:DataObject>

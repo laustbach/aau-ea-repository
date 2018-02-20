@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Censor eksaminering"
+    id="23db988c-e62b-4739-bb7c-bb30cf8d7731">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_de92027b-360f-42b7-a5d5-6f42d20e271a.xml#de92027b-360f-42b7-a5d5-6f42d20e271a"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_8e527a5b-bf74-4842-8378-759530566fe8.xml#8e527a5b-bf74-4842-8378-759530566fe8"/>
+</archimate:ServingRelationship>

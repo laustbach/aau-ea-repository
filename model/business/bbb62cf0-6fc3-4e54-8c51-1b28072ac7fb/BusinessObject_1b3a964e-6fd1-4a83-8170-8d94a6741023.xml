@@ -1,0 +1,14 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansat"
+    id="1b3a964e-6fd1-4a83-8170-8d94a6741023">
+  <properties
+      key="Slut dato"/>
+  <properties
+      key="fornavn "
+      value="string"/>
+  <properties
+      key="Start dato"/>
+  <properties
+      key="Version"/>
+</archimate:BusinessObject>

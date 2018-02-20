@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Løn data"
+    id="06103660-d8ef-4f9e-889a-3ceedc79fa52">
+  <properties
+      key="Start dato"/>
+  <properties
+      key="Slut dato"/>
+  <properties
+      key="Version"/>
+</archimate:DataObject>

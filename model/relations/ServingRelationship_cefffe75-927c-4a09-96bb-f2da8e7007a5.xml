@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Udbyd eksamensaktiviteter"
+    id="cefffe75-927c-4a09-96bb-f2da8e7007a5">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_940f3d75-73e4-4e8f-84d4-bae53e091642.xml#940f3d75-73e4-4e8f-84d4-bae53e091642"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a35866d1-6cae-4ea4-a5ab-a49424fb00ad.xml#a35866d1-6cae-4ea4-a5ab-a49424fb00ad"/>
+</archimate:ServingRelationship>
