@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samarbejdsfakulteter"
+    id="96402f52-d983-4f4b-ba42-c358891d95a6">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8981ce8c-4136-4a6f-956c-0e42bbe18247.xml#8981ce8c-4136-4a6f-956c-0e42bbe18247"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_39d5a95c-7f78-46ab-b42f-ced8c4ca19ec.xml#39d5a95c-7f78-46ab-b42f-ced8c4ca19ec"/>
+</archimate:AssociationRelationship>
