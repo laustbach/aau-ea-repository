@@ -147,9 +147,9 @@
       id="c2e33e4d-f973-4976-b00b-0bd4c4ab368a"
       targetConnections="35592321-e705-41cb-a95a-deead5426caf d1cdd4d3-0bac-416d-a898-6b5a71eb60fb">
     <bounds
-        x="710"
+        x="732"
         y="252"
-        width="164"
+        width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
