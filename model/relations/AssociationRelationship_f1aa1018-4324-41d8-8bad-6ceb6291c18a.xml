@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Andre"
+    id="f1aa1018-4324-41d8-8bad-6ceb6291c18a">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_ec1938fb-21f9-4cb5-a003-f7b23ba9f222.xml#ec1938fb-21f9-4cb5-a003-f7b23ba9f222"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_a2b4e22e-e66f-4721-bf9a-efb32e2bd5f9.xml#a2b4e22e-e66f-4721-bf9a-efb32e2bd5f9"/>
+</archimate:AssociationRelationship>
