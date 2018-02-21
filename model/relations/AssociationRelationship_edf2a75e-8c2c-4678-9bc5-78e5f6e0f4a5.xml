@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Primær"
+    id="edf2a75e-8c2c-4678-9bc5-78e5f6e0f4a5">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_9bdd732c-356d-42f9-9381-76ec9766579b.xml#9bdd732c-356d-42f9-9381-76ec9766579b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_8a5b79a8-026a-4fc6-993e-88f7131569ed.xml#8a5b79a8-026a-4fc6-993e-88f7131569ed"/>
+</archimate:AssociationRelationship>
