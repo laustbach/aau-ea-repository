@@ -8,8 +8,8 @@
       id="b1ed65aa-3be1-4917-9e56-1a10f3b1ad0f"
       targetConnections="32212851-e578-4796-86e5-c6f06947d8ad">
     <bounds
-        x="337"
-        y="72"
+        x="325"
+        y="24"
         width="120"
         height="55"/>
     <archimateElement
@@ -101,8 +101,8 @@
           href="CompositionRelationship_d4b32367-d578-4331-a1ba-af4cd00900b6.xml#d4b32367-d578-4331-a1ba-af4cd00900b6"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="156"
+        x="24"
+        y="108"
         width="721"
         height="205"/>
     <children
