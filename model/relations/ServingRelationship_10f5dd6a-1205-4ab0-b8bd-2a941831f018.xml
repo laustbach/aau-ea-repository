@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single Sign On"
+    id="10f5dd6a-1205-4ab0-b8bd-2a941831f018">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_45a32b82-0770-4fe7-9791-bee55f7deb7f.xml#45a32b82-0770-4fe7-9791-bee55f7deb7f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_114885cf-574d-43da-89ef-ad2bb9b0219b.xml#114885cf-574d-43da-89ef-ad2bb9b0219b"/>
+</archimate:ServingRelationship>

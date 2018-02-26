@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinkedIn profiler"
+    id="21f19a8a-c94e-46b6-8ef1-bba0a9723268">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_72f61e56-d90d-4c43-aa12-9e3fa7e7800a.xml#72f61e56-d90d-4c43-aa12-9e3fa7e7800a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_8b48a450-dbe8-4cd0-8daa-4e754cdcd79e.xml#8b48a450-dbe8-4cd0-8daa-4e754cdcd79e"/>
+</archimate:ServingRelationship>

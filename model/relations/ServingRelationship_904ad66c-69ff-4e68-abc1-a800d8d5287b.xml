@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-mails in/out"
+    id="904ad66c-69ff-4e68-abc1-a800d8d5287b">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_5a1bd6bb-be56-45ec-8f4e-c181251db2f8.xml#5a1bd6bb-be56-45ec-8f4e-c181251db2f8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_114885cf-574d-43da-89ef-ad2bb9b0219b.xml#114885cf-574d-43da-89ef-ad2bb9b0219b"/>
+</archimate:ServingRelationship>
