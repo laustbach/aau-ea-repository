@@ -1,11 +1,12 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="e752dc93-27c2-4a86-9724-6203eacba85f">
+    name="Sillinger"
+    id="3df3f141-c17e-43d5-b6a8-30206e2aabf1">
   <source
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_c4309997-3c8e-4ed4-bb82-b82df2922c49.xml#c4309997-3c8e-4ed4-bb82-b82df2922c49"/>
+      href="ApplicationInterface_bdbe5772-4501-4ade-9efb-b5f05d387c6c.xml#bdbe5772-4501-4ade-9efb-b5f05d387c6c"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_65b15f81-c7d9-4db4-ae14-f0714190b171.xml#65b15f81-c7d9-4db4-ae14-f0714190b171"/>
+      href="ApplicationComponent_114885cf-574d-43da-89ef-ad2bb9b0219b.xml#114885cf-574d-43da-89ef-ad2bb9b0219b"/>
 </archimate:ServingRelationship>

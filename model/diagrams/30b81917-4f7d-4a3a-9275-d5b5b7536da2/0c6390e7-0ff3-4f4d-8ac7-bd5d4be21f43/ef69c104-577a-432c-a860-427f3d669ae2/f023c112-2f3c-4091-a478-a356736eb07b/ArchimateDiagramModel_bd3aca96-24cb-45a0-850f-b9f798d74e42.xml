@@ -466,7 +466,7 @@
     <bounds
         x="783"
         y="132"
-        width="137"
+        width="154"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
