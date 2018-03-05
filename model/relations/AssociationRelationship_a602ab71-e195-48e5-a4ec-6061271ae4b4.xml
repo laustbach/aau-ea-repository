@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hovedfakultet"
-    id="ccbb8804-d100-4596-a459-eebe70d1eb31">
+    name="Andre"
+    id="a602ab71-e195-48e5-a4ec-6061271ae4b4">
   <source
       xsi:type="archimate:DataObject"
-      href="DataObject_c073504a-f555-4ca0-88c8-3709d7f6f91b.xml#c073504a-f555-4ca0-88c8-3709d7f6f91b"/>
+      href="DataObject_e954f508-8333-404f-85aa-f807faa6ab79.xml#e954f508-8333-404f-85aa-f807faa6ab79"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_8a5b79a8-026a-4fc6-993e-88f7131569ed.xml#8a5b79a8-026a-4fc6-993e-88f7131569ed"/>
+      href="DataObject_89de8a08-4341-4a69-a598-589eb331d0f4.xml#89de8a08-4341-4a69-a598-589eb331d0f4"/>
 </archimate:AssociationRelationship>

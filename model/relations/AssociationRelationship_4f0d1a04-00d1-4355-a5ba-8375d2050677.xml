@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hovedfakultet"
-    id="ccbb8804-d100-4596-a459-eebe70d1eb31">
+    id="4f0d1a04-00d1-4355-a5ba-8375d2050677">
   <source
       xsi:type="archimate:DataObject"
-      href="DataObject_c073504a-f555-4ca0-88c8-3709d7f6f91b.xml#c073504a-f555-4ca0-88c8-3709d7f6f91b"/>
+      href="DataObject_a9e96e74-002d-43b6-9560-1eb748d27d46.xml#a9e96e74-002d-43b6-9560-1eb748d27d46"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_8a5b79a8-026a-4fc6-993e-88f7131569ed.xml#8a5b79a8-026a-4fc6-993e-88f7131569ed"/>
+      href="DataObject_e954f508-8333-404f-85aa-f807faa6ab79.xml#e954f508-8333-404f-85aa-f807faa6ab79"/>
 </archimate:AssociationRelationship>
