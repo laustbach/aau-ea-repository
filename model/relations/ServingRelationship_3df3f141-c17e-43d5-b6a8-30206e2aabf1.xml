@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sillinger"
+    name="ph.d. studerende"
     id="3df3f141-c17e-43d5-b6a8-30206e2aabf1">
   <source
       xsi:type="archimate:ApplicationInterface"
