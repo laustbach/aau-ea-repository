@@ -1,11 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5c573c7e-5596-4631-be8b-c4d2958c3423">
+    name="Primær"
+    id="925cc16a-c605-4b16-aa3f-002b22ead7d7">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_278808ea-8f83-43b8-9b98-b65e083f973a.xml#278808ea-8f83-43b8-9b98-b65e083f973a"/>
+      href="BusinessObject_d5117001-2fb2-42a1-9550-d9e51dc3ee62.xml#d5117001-2fb2-42a1-9550-d9e51dc3ee62"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_b269d294-cd32-43e1-9993-fef633316d31.xml#b269d294-cd32-43e1-9993-fef633316d31"/>
+      href="BusinessObject_39d5a95c-7f78-46ab-b42f-ced8c4ca19ec.xml#39d5a95c-7f78-46ab-b42f-ced8c4ca19ec"/>
 </archimate:AssociationRelationship>

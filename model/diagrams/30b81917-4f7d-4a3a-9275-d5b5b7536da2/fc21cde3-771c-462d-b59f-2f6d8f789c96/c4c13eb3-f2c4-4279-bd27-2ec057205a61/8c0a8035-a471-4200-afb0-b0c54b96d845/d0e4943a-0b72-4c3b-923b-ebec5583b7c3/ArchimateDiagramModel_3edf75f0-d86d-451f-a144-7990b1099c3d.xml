@@ -193,9 +193,14 @@
         target="7fd66f6b-59f3-435a-a826-50e05221cbe5">
       <bendpoints
           startX="91"
-          startY="-99"
+          startY="-87"
           endX="-204"
-          endY="21"/>
+          endY="45"/>
+      <bendpoints
+          startX="139"
+          startY="-123"
+          endX="-156"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_ccbb8804-d100-4596-a459-eebe70d1eb31.xml#ccbb8804-d100-4596-a459-eebe70d1eb31"/>
