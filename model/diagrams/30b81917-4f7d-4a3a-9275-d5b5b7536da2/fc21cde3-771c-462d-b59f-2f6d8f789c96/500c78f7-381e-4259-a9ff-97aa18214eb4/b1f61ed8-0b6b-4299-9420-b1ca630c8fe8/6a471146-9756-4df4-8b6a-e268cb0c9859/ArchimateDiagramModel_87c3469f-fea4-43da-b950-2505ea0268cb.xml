@@ -9,8 +9,8 @@
       name="Modulbasen"
       textAlignment="1">
     <bounds
-        x="48"
-        y="246"
+        x="24"
+        y="228"
         width="733"
         height="109"/>
     <children
@@ -76,8 +76,8 @@
       name="Uddannelsesbasen"
       textAlignment="1">
     <bounds
-        x="48"
-        y="660"
+        x="24"
+        y="636"
         width="733"
         height="301"/>
     <children
@@ -286,8 +286,8 @@
           href="AssociationRelationship_b4b2144b-d6da-41e9-8c8a-6e9111bf550d.xml#b4b2144b-d6da-41e9-8c8a-6e9111bf550d"/>
     </sourceConnections>
     <bounds
-        x="444"
-        y="804"
+        x="420"
+        y="780"
         width="120"
         height="55"/>
     <archimateElement
@@ -300,8 +300,8 @@
       name="Studieordningsbasen"
       textAlignment="1">
     <bounds
-        x="48"
-        y="372"
+        x="24"
+        y="348"
         width="733"
         height="277"/>
     <children
@@ -730,8 +730,8 @@
       name="STADS Uddannelsesstruktur"
       textAlignment="1">
     <bounds
-        x="48"
-        y="36"
+        x="24"
+        y="24"
         width="733"
         height="193"/>
     <children
@@ -831,7 +831,7 @@
             href="AssociationRelationship_ae32b3a7-5b46-46e5-aa97-e3b75401c042.xml#ae32b3a7-5b46-46e5-aa97-e3b75401c042"/>
       </sourceConnections>
       <bounds
-          x="324"
+          x="288"
           y="120"
           width="133"
           height="55"/>

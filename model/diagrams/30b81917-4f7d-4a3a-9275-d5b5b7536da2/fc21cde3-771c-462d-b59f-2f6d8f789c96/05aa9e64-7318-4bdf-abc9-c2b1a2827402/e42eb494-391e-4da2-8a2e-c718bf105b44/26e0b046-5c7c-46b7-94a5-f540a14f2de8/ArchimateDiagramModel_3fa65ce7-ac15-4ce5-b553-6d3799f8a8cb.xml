@@ -800,6 +800,11 @@
             endY="-423"/>
         <bendpoints
             startX="-77"
+            startY="213"
+            endX="96"
+            endY="-207"/>
+        <bendpoints
+            startX="-77"
             startY="405"
             endX="96"
             endY="-15"/>
@@ -853,7 +858,12 @@
           source="6a4aefa6-4cc0-4e39-8b0a-d2f20eebaaaa"
           target="dc3c3043-2527-429b-8c2c-521c07bf2e4f">
         <bendpoints
-            startX="-65"
+            startX="-83"
+            startY="9"
+            endX="108"
+            endY="-531"/>
+        <bendpoints
+            startX="-83"
             startY="525"
             endX="108"
             endY="-15"/>
@@ -862,7 +872,7 @@
             href="AssociationRelationship_d8680610-4fe0-47b8-b50a-0b6479fdeb16.xml#d8680610-4fe0-47b8-b50a-0b6479fdeb16"/>
       </sourceConnections>
       <bounds
-          x="551"
+          x="569"
           y="120"
           width="133"
           height="55"/>
@@ -884,7 +894,7 @@
             href="AssociationRelationship_06a75f6a-46b9-4b1e-8046-981c10cca0e0.xml#06a75f6a-46b9-4b1e-8046-981c10cca0e0"/>
       </sourceConnections>
       <bounds
-          x="564"
+          x="576"
           y="36"
           width="120"
           height="55"/>
@@ -902,10 +912,10 @@
           source="34b981a8-005f-4553-bcef-4a4bfbb7004f"
           target="8cd4ab0d-5eeb-47fa-b47c-c2932dba4c68">
         <bendpoints
-            startX="48"
-            startY="-108"
-            endX="48"
-            endY="93"/>
+            startX="20"
+            startY="-99"
+            endX="36"
+            endY="105"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_30586fe3-b1d8-4798-beae-bb5c27478df6.xml#30586fe3-b1d8-4798-beae-bb5c27478df6"/>
@@ -1126,7 +1136,7 @@
             href="AssociationRelationship_ae32b3a7-5b46-46e5-aa97-e3b75401c042.xml#ae32b3a7-5b46-46e5-aa97-e3b75401c042"/>
       </sourceConnections>
       <bounds
-          x="324"
+          x="288"
           y="120"
           width="133"
           height="55"/>
