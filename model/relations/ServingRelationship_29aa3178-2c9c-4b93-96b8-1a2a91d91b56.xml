@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STADS Uddanelsernes struktur, Studerende og tilmeldinger til moduler og prøver"
     id="29aa3178-2c9c-4b93-96b8-1a2a91d91b56">
   <source
       xsi:type="archimate:ApplicationInterface"
