@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studieordninger"
+    id="ec8fafc0-23c7-4ed9-96ff-83efc1360bf5">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_c4309997-3c8e-4ed4-bb82-b82df2922c49.xml#c4309997-3c8e-4ed4-bb82-b82df2922c49"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_55e7e055-5cc0-4486-b3f4-1fb7de733574.xml#55e7e055-5cc0-4486-b3f4-1fb7de733574"/>
+</archimate:ServingRelationship>

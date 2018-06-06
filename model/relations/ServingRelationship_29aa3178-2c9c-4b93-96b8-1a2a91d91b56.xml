@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STADS Uddanelsernes struktur, Studerende og tilmeldinger til moduler og prøver"
+    id="29aa3178-2c9c-4b93-96b8-1a2a91d91b56">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_f1120eda-64c4-4002-94a8-4b0dcfe8c8ac.xml#f1120eda-64c4-4002-94a8-4b0dcfe8c8ac"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_55e7e055-5cc0-4486-b3f4-1fb7de733574.xml#55e7e055-5cc0-4486-b3f4-1fb7de733574"/>
+</archimate:ServingRelationship>

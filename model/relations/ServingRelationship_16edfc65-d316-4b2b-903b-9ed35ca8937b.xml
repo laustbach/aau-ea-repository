@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Moduler"
+    id="16edfc65-d316-4b2b-903b-9ed35ca8937b">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_2250e25e-0ad2-410e-b8f6-7de05b6178d9.xml#2250e25e-0ad2-410e-b8f6-7de05b6178d9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_55e7e055-5cc0-4486-b3f4-1fb7de733574.xml#55e7e055-5cc0-4486-b3f4-1fb7de733574"/>
+</archimate:ServingRelationship>
