@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation"
+    id="f1dc2c10-d2b2-4ab4-9f86-b4159cf84faa">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_fa4e9fba-5e0e-4619-b4d3-71517e562d89.xml#fa4e9fba-5e0e-4619-b4d3-71517e562d89"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4fbd6022-d3e6-4f02-aa72-0551999601fc.xml#4fbd6022-d3e6-4f02-aa72-0551999601fc"/>
+</archimate:TriggeringRelationship>
