@@ -1,11 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Syllabus"
-    id="d743fe48-ed77-4932-8ed6-6d8c2b7e2669">
-  <properties
-      key="Slut dato"/>
-  <properties
-      key="Start dato"/>
-  <properties
-      key="Version"/>
-</archimate:ApplicationComponent>
+    id="d743fe48-ed77-4932-8ed6-6d8c2b7e2669"/>

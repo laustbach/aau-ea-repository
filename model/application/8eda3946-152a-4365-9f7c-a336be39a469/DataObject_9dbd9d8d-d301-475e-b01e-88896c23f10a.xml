@@ -1,11 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="STADS result data"
-    id="9dbd9d8d-d301-475e-b01e-88896c23f10a">
-  <properties
-      key="Start dato"/>
-  <properties
-      key="Slut dato"/>
-  <properties
-      key="Version"/>
-</archimate:DataObject>
+    id="9dbd9d8d-d301-475e-b01e-88896c23f10a"/>

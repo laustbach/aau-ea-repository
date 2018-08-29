@@ -9,7 +9,7 @@
       name="IDM (Sailpoint IIQ)"
       textAlignment="1">
     <bounds
-        x="288"
+        x="336"
         y="60"
         width="361"
         height="145"/>
@@ -72,14 +72,14 @@
       name="Statens HR "
       textAlignment="1">
     <bounds
-        x="288"
+        x="336"
         y="240"
         width="373"
-        height="140"/>
+        height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c3d8bbd3-669e-49e7-95a7-5250af20ed65"
-        targetConnections="d64e7533-9c0a-44ec-a750-036c9897f6a7 8bac97d9-2f5f-42bf-9c42-4624646f409a 1c8d0698-9c8d-45ff-ba67-9593b3b75154">
+        targetConnections="d64e7533-9c0a-44ec-a750-036c9897f6a7 8bac97d9-2f5f-42bf-9c42-4624646f409a 1c8d0698-9c8d-45ff-ba67-9593b3b75154 a9aa4b8e-9eaa-49b0-9609-d0d80b364c2d">
       <bounds
           x="24"
           y="48"
@@ -110,6 +110,39 @@
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_3eabfa01-4625-45e5-8e27-feb1a4f0c752.xml#3eabfa01-4625-45e5-8e27-feb1a4f0c752"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b51090b9-997d-4d91-af58-9a4dea88f52e">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="a9aa4b8e-9eaa-49b0-9609-d0d80b364c2d"
+          source="b51090b9-997d-4d91-af58-9a4dea88f52e"
+          target="c3d8bbd3-669e-49e7-95a7-5250af20ed65">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_896b8da7-3823-41e6-9558-de00eca6d2b2.xml#896b8da7-3823-41e6-9558-de00eca6d2b2"/>
+      </sourceConnections>
+      <bounds
+          x="204"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_b72dde31-351b-412a-a4e5-fca6841bd90e.xml#b72dde31-351b-412a-a4e5-fca6841bd90e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f8579060-ad98-4e4a-a700-3b39eaabaace">
+      <bounds
+          x="24"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_249fb5b1-748a-4808-b152-da01fa91384e.xml#249fb5b1-748a-4808-b152-da01fa91384e"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -117,8 +150,8 @@
       name="Reflective (SmartOrg)"
       textAlignment="1">
     <bounds
-        x="288"
-        y="420"
+        x="732"
+        y="65"
         width="268"
         height="140"/>
     <children
@@ -141,10 +174,10 @@
       name="CPR Brooker"
       textAlignment="1">
     <bounds
-        x="48"
+        x="96"
         y="240"
         width="204"
-        height="140"/>
+        height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="fb25e7d9-b330-4f0f-8e88-9e2d868b984f">
@@ -167,7 +200,7 @@
             href="AssociationRelationship_27c2ba14-98e6-4abd-b247-3bf3cf0f6b9a.xml#27c2ba14-98e6-4abd-b247-3bf3cf0f6b9a"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="48"
           y="48"
           width="120"
           height="55"/>

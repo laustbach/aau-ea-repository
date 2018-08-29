@@ -1,11 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisations data"
-    id="22b0516a-4900-47af-9041-2ec9c211d949">
-  <properties
-      key="Start dato"/>
-  <properties
-      key="Slut dato"/>
-  <properties
-      key="Version"/>
-</archimate:DataObject>
+    id="22b0516a-4900-47af-9041-2ec9c211d949"/>
