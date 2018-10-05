@@ -1,14 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ansatliste"
-    id="9e392282-2881-4443-bdc7-35b633222a1a">
-  <properties
-      key="Slut dato"/>
-  <properties
-      key="fornavn "
-      value="string"/>
-  <properties
-      key="Start dato"/>
-  <properties
-      key="Version"/>
-</archimate:BusinessObject>
+    id="9e392282-2881-4443-bdc7-35b633222a1a"/>

@@ -1,11 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stillingskort data"
-    id="891e27ea-808b-442e-aa91-30b40752b3fc">
-  <properties
-      key="Start dato"/>
-  <properties
-      key="Slut dato"/>
-  <properties
-      key="Version"/>
-</archimate:DataObject>
+    id="891e27ea-808b-442e-aa91-30b40752b3fc"/>

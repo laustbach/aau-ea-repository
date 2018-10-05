@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="E-Valg"
-    id="02f398d5-58df-469a-8123-79b073acbf93"/>
+    id="02f398d5-58df-469a-8123-79b073acbf93"
+    documentation="Oracle APEX løsning til datavaskning inden upload til E-Vote"/>

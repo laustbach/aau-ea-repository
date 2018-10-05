@@ -2,11 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AAU EA (GIT)"
     id="ab4767c2-68d2-4649-9338-585e6e477e7e"
-    version="4.0.0">
-  <properties
-      key="Slut dato"/>
-  <properties
-      key="Start dato"/>
-  <properties
-      key="Version"/>
-</archimate:ArchimateModel>
+    version="4.0.0"/>

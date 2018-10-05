@@ -1,14 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Annotering"
-    id="d2cacfb0-7de1-4e70-a8db-5a4cd0edb0e1">
-  <properties
-      key="Slut dato"/>
-  <properties
-      key="fornavn "
-      value="string"/>
-  <properties
-      key="Start dato"/>
-  <properties
-      key="Version"/>
-</archimate:BusinessObject>
+    id="d2cacfb0-7de1-4e70-a8db-5a4cd0edb0e1"/>
