@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Uddannelser"
-    id="178e1b88-52b3-4db5-9c4b-693adaa8af1f">
+    id="fe8a5120-e88a-4522-9a65-ab9c13a08800">
   <source
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_b44993c6-5669-463c-85e9-47711dec4e86.xml#b44993c6-5669-463c-85e9-47711dec4e86"/>
+      href="ApplicationInterface_07c44012-c2f9-445b-9694-e46be0a003cd.xml#07c44012-c2f9-445b-9694-e46be0a003cd"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_7ef70f49-e3fb-4ba0-804f-f1faef390db2.xml#7ef70f49-e3fb-4ba0-804f-f1faef390db2"/>
+      href="ApplicationComponent_184a4e2e-2391-4159-8da2-343f54e32c93.xml#184a4e2e-2391-4159-8da2-343f54e32c93"/>
 </archimate:ServingRelationship>
