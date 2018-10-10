@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poll studerende"
+    id="6e8ba573-0534-44ca-8fc8-0c7b031044cc">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_ab1ae458-6674-4f0b-ba6e-c6d59323fa4b.xml#ab1ae458-6674-4f0b-ba6e-c6d59323fa4b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_114885cf-574d-43da-89ef-ad2bb9b0219b.xml#114885cf-574d-43da-89ef-ad2bb9b0219b"/>
+</archimate:ServingRelationship>
