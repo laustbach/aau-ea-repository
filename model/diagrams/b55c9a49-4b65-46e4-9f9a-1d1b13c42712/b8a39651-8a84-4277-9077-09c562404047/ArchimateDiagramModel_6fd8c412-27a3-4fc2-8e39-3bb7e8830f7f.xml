@@ -16,7 +16,7 @@
           href="RealizationRelationship_2d349724-2363-442e-a135-e65d1b4f4d2d.xml#2d349724-2363-442e-a135-e65d1b4f4d2d"/>
     </sourceConnections>
     <bounds
-        x="123"
+        x="108"
         y="142"
         width="120"
         height="55"/>
@@ -29,7 +29,7 @@
       id="ee5cc2ca-3ee1-41f3-b763-765394e23c38"
       targetConnections="73fec111-4344-4405-91f5-801682e4c560 f8fc00b9-ce63-4af0-803f-b200efc490ea">
     <bounds
-        x="288"
+        x="273"
         y="142"
         width="120"
         height="55"/>
@@ -50,7 +50,7 @@
           href="RealizationRelationship_30ac4e64-365b-4192-b2fb-5f8e45106057.xml#30ac4e64-365b-4192-b2fb-5f8e45106057"/>
     </sourceConnections>
     <bounds
-        x="1128"
+        x="1140"
         y="142"
         width="120"
         height="55"/>
@@ -63,7 +63,7 @@
       id="ce6830fd-77ca-4bd4-81b9-dbda2dc9e152"
       targetConnections="f44ffabd-dc8d-4906-99ae-39050919a576 328f27b4-4c2a-4184-8bb1-9b4eed1edb0f">
     <bounds
-        x="960"
+        x="972"
         y="142"
         width="120"
         height="55"/>
@@ -85,9 +85,9 @@
           href="ServingRelationship_f7b1730b-fbe9-428f-95a2-5d2f7d77f1bc.xml#f7b1730b-fbe9-428f-95a2-5d2f7d77f1bc"/>
     </sourceConnections>
     <bounds
-        x="456"
+        x="441"
         y="142"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -166,7 +166,7 @@
     <bounds
         x="792"
         y="142"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -203,7 +203,7 @@
       id="060d8a4d-8e61-4845-9386-6b9d5061c9ed"
       targetConnections="afcd5712-b1da-4633-98c7-2816a2d19530 8d760de0-6186-458d-a606-0eb5058f0484">
     <bounds
-        x="960"
+        x="972"
         y="252"
         width="120"
         height="55"/>
@@ -224,7 +224,7 @@
           href="RealizationRelationship_add94186-b5e8-4912-9f58-549a903fac41.xml#add94186-b5e8-4912-9f58-549a903fac41"/>
     </sourceConnections>
     <bounds
-        x="1128"
+        x="1140"
         y="252"
         width="120"
         height="55"/>
