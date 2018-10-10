@@ -171,7 +171,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="4e86e5d4-1591-441c-879b-ab85e19898a1"
-      name="CPR Brooker"
+      name="CPR Broker"
       textAlignment="1">
     <bounds
         x="96"
