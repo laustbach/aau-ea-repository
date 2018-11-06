@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Moduler"
     id="0ebb8917-106f-4b62-a078-288f8951614c">
   <source
       xsi:type="archimate:ApplicationInterface"
