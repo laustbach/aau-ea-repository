@@ -10,14 +10,14 @@
       name="Identitets data   "
       textAlignment="1">
     <bounds
-        x="48"
-        y="48"
+        x="288"
+        y="144"
         width="325"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="860754ce-e6b6-407d-a98b-91ed075f148c"
-        targetConnections="28f87da1-3f0f-42dc-9299-3d9758a9b62e">
+        targetConnections="28f87da1-3f0f-42dc-9299-3d9758a9b62e 34ef1e89-f582-4b35-98e4-767ee6777634">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="288b8d40-e59a-44ed-8ff6-988acd810d24"
@@ -73,8 +73,8 @@
       name="Ansættelses data  "
       textAlignment="1">
     <bounds
-        x="48"
-        y="408"
+        x="288"
+        y="504"
         width="373"
         height="140"/>
     <children
@@ -127,14 +127,14 @@
       name="Bruger styring "
       textAlignment="1">
     <bounds
-        x="48"
-        y="216"
+        x="288"
+        y="312"
         width="289"
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="58d393ec-aceb-4c11-9c35-cc6ecba8ba18"
-        targetConnections="288b8d40-e59a-44ed-8ff6-988acd810d24 29d34afe-7f58-4543-95dd-c93c89cdd506">
+        targetConnections="288b8d40-e59a-44ed-8ff6-988acd810d24 29d34afe-7f58-4543-95dd-c93c89cdd506 e2f47f53-8132-402c-a1fc-2ce5d7a3b132">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="fdbec7e3-003c-492b-8e5e-4e4e5123bfe6"
@@ -168,12 +168,42 @@
           href="AssociationRelationship_5ebe1702-1067-4133-806a-cc9d3fa2c4a4.xml#5ebe1702-1067-4133-806a-cc9d3fa2c4a4"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="276"
+        x="648"
+        y="372"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_09814da1-271a-404f-9bb9-f573a7ec7774.xml#09814da1-271a-404f-9bb9-f573a7ec7774"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0b9e6700-4e0b-4b75-945d-92f4d99efbb1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="34ef1e89-f582-4b35-98e4-767ee6777634"
+        source="0b9e6700-4e0b-4b75-945d-92f4d99efbb1"
+        target="860754ce-e6b6-407d-a98b-91ed075f148c">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_0adaa93a-c1f1-4b59-a573-cb1150c2ac57.xml#0adaa93a-c1f1-4b59-a573-cb1150c2ac57"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e2f47f53-8132-402c-a1fc-2ce5d7a3b132"
+        source="0b9e6700-4e0b-4b75-945d-92f4d99efbb1"
+        target="58d393ec-aceb-4c11-9c35-cc6ecba8ba18">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_27b764d7-6e2d-45be-964c-b3766d2b7f4e.xml#27b764d7-6e2d-45be-964c-b3766d2b7f4e"/>
+    </sourceConnections>
+    <bounds
+        x="132"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_1d013662-ef60-40a9-bf72-717674c83f48.xml#1d013662-ef60-40a9-bf72-717674c83f48"/>
   </children>
 </archimate:ArchimateDiagramModel>

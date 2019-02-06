@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studieordninger"
     id="d2214d07-68c5-475f-9695-61bfdac63120">
   <source
       xsi:type="archimate:ApplicationInterface"
