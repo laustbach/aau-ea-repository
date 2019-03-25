@@ -1,11 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Studieordninger"
-    id="3f67af80-6b02-4d3e-96bb-10358ca79ea1">
+    name="Studerende og deres uddannelser"
+    id="c4ee57a2-5697-493a-9bd5-9b5392a4195c">
   <source
-      xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_2f91dffc-e2b1-455d-90c8-f32fb51f8992.xml#2f91dffc-e2b1-455d-90c8-f32fb51f8992"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3f9ee6e7-dd3f-4f4a-9a73-471320f96532.xml#3f9ee6e7-dd3f-4f4a-9a73-471320f96532"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_114885cf-574d-43da-89ef-ad2bb9b0219b.xml#114885cf-574d-43da-89ef-ad2bb9b0219b"/>

@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Login med LinkedIn konto"
-    id="6a6efff7-e1d5-4097-afa5-bd1f450febff">
+    id="3232f88f-4820-4f0c-8973-171ec3b012f5">
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_b385566f-afd0-4428-abc0-0bb129bb8d44.xml#b385566f-afd0-4428-abc0-0bb129bb8d44"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_8b48a450-dbe8-4cd0-8daa-4e754cdcd79e.xml#8b48a450-dbe8-4cd0-8daa-4e754cdcd79e"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_ec37f8e0-61ce-4119-8d2b-7fd0411605da.xml#ec37f8e0-61ce-4119-8d2b-7fd0411605da"/>
 </archimate:ServingRelationship>
