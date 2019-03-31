@@ -286,7 +286,7 @@
         source="1cda45e8-f083-44af-b85e-4dd55b2a85d1"
         target="c2c230cc-bc07-48e5-aad7-6f5da7dd079e">
       <bendpoints
-          startX="118"
+          startX="119"
           startY="-15"
           endX="-279"
           endY="81"/>
@@ -300,9 +300,9 @@
           href="ServingRelationship_904ad66c-69ff-4e68-abc1-a800d8d5287b.xml#904ad66c-69ff-4e68-abc1-a800d8d5287b"/>
     </sourceConnections>
     <bounds
-        x="362"
+        x="345"
         y="1056"
-        width="120"
+        width="153"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
