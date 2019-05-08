@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT komponenter LCM"
+    id="235837ad-88ff-4957-aa8c-6007db62a9be">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cccfb3a5-5d10-49d9-aa58-9132675495b3.xml#cccfb3a5-5d10-49d9-aa58-9132675495b3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5b114f76-ca4d-41b6-b4fd-6bee4a2229d2.xml#5b114f76-ca4d-41b6-b4fd-6bee4a2229d2"/>
+</archimate:ServingRelationship>
