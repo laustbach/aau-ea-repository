@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ph.d. studerende"
+    id="40c4dacc-7144-48e5-a86d-16d2427d7986">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6baa06be-ac91-4710-9d8c-48b74804c9be.xml#6baa06be-ac91-4710-9d8c-48b74804c9be"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_ec37f8e0-61ce-4119-8d2b-7fd0411605da.xml#ec37f8e0-61ce-4119-8d2b-7fd0411605da"/>
+</archimate:ServingRelationship>

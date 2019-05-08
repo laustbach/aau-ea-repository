@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identifikation med nemID"
+    id="a629a129-0e13-49b8-a354-3ca79928b795">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_dbe2e4e8-d7f4-4929-8b49-bd1db4569d31.xml#dbe2e4e8-d7f4-4929-8b49-bd1db4569d31"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_ec37f8e0-61ce-4119-8d2b-7fd0411605da.xml#ec37f8e0-61ce-4119-8d2b-7fd0411605da"/>
+</archimate:ServingRelationship>

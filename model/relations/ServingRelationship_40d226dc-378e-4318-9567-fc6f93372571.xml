@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modtag hændelse"
     id="40d226dc-378e-4318-9567-fc6f93372571">
   <source
       xsi:type="archimate:ApplicationInterface"
