@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="c52ae22c-1bac-4770-8ad4-7b4314b32dda"
-      name="Applikations komponenter og services">
+      name="Applikations komponenter og services"
+      textAlignment="1">
     <bounds
         x="48"
         y="60"
@@ -97,7 +98,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="dcbf89db-4465-4db4-8b85-dd12ba1d4d8d"
-      name="AAU eksterne infrastruktur services">
+      name="AAU eksterne infrastruktur services"
+      textAlignment="1">
     <bounds
         x="48"
         y="696"
@@ -195,7 +197,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="bc83a01c-89e9-4cd5-84a6-8c0e65d2c21d"
-      name="AAU Infrastruktur">
+      name="AAU Infrastruktur"
+      textAlignment="1">
     <bounds
         x="48"
         y="936"
@@ -289,7 +292,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="5567dc99-6661-4645-a4ca-206847028305"
-      name="Tredje parts infrastruktur">
+      name="Tredje parts infrastruktur"
+      textAlignment="1">
     <bounds
         x="876"
         y="936"
@@ -341,7 +345,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="f1f881ed-807f-4843-81c9-39a27a573db7"
-      name="Tredje parts eksterne infrastruktur services">
+      name="Tredje parts eksterne infrastruktur services"
+      textAlignment="1">
     <bounds
         x="876"
         y="696"
