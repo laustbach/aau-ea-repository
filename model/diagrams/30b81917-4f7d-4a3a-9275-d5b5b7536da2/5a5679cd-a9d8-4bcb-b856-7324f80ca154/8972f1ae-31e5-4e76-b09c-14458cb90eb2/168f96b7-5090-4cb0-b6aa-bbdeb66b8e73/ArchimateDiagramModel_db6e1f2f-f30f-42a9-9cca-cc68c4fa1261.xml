@@ -79,7 +79,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c3d8bbd3-669e-49e7-95a7-5250af20ed65"
-        targetConnections="d64e7533-9c0a-44ec-a750-036c9897f6a7 8bac97d9-2f5f-42bf-9c42-4624646f409a 1c8d0698-9c8d-45ff-ba67-9593b3b75154 a9aa4b8e-9eaa-49b0-9609-d0d80b364c2d">
+        targetConnections="d64e7533-9c0a-44ec-a750-036c9897f6a7 8bac97d9-2f5f-42bf-9c42-4624646f409a 1c8d0698-9c8d-45ff-ba67-9593b3b75154 a9aa4b8e-9eaa-49b0-9609-d0d80b364c2d 591fe61e-7392-4ed3-a007-db98d1b1be61">
       <bounds
           x="24"
           y="48"
@@ -134,9 +134,18 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f8579060-ad98-4e4a-a700-3b39eaabaace">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="591fe61e-7392-4ed3-a007-db98d1b1be61"
+          source="f8579060-ad98-4e4a-a700-3b39eaabaace"
+          target="c3d8bbd3-669e-49e7-95a7-5250af20ed65">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_6a8cfae8-c86b-41b8-ad86-3b5f4170347e.xml#6a8cfae8-c86b-41b8-ad86-3b5f4170347e"/>
+      </sourceConnections>
       <bounds
-          x="24"
-          y="120"
+          x="72"
+          y="132"
           width="120"
           height="55"/>
       <archimateElement
@@ -171,7 +180,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="4e86e5d4-1591-441c-879b-ab85e19898a1"
-      name="CPR Broker"
+      name="CPR "
       textAlignment="1">
     <bounds
         x="96"
