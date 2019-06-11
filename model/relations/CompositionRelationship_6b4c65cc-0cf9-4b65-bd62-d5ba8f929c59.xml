@@ -1,12 +1,11 @@
-<archimate:AssociationRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gæste relation"
-    id="6bb025fb-e538-42a5-a546-7fba23d8f4f4">
+    id="6b4c65cc-0cf9-4b65-bd62-d5ba8f929c59">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_cdf7a1b9-0628-49f9-a1db-be671b42374c.xml#cdf7a1b9-0628-49f9-a1db-be671b42374c"/>
+      href="BusinessObject_f221c25c-fa94-4505-bd5e-084a680181a0.xml#f221c25c-fa94-4505-bd5e-084a680181a0"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_b54533c7-0940-4a7f-88bf-dadfd73032e2.xml#b54533c7-0940-4a7f-88bf-dadfd73032e2"/>
-</archimate:AssociationRelationship>
+</archimate:CompositionRelationship>
