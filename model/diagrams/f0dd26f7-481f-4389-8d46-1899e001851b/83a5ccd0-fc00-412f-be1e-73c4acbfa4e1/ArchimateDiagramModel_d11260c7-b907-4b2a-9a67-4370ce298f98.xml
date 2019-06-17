@@ -6,7 +6,8 @@
     connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="8eb6ba4c-3ab6-402e-bb40-62d96d99736d">
+      id="8eb6ba4c-3ab6-402e-bb40-62d96d99736d"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="8999126f-d45a-4923-a1f1-07799388c078"

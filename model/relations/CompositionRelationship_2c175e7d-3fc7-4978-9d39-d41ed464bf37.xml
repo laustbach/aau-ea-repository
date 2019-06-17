@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vil have én eller flere"
+    id="2c175e7d-3fc7-4978-9d39-d41ed464bf37">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_03aa696f-fe4f-4d08-890e-a1cd2a5f8a20.xml#03aa696f-fe4f-4d08-890e-a1cd2a5f8a20"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_1497906a-eecd-42c4-81f1-be5be2884a3a.xml#1497906a-eecd-42c4-81f1-be5be2884a3a"/>
+</archimate:CompositionRelationship>

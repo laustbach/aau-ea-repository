@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Statens HR TO-BE Logical Information Structure Viewpoint"
+    name="Statens HR TO-BE Logical Information Structure Viewpoint OLD"
     id="9a3b99c3-97a0-4511-916c-349763546b52"
     viewpoint="information_structure">
   <children
@@ -17,7 +17,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="860754ce-e6b6-407d-a98b-91ed075f148c"
-        targetConnections="28f87da1-3f0f-42dc-9299-3d9758a9b62e 34ef1e89-f582-4b35-98e4-767ee6777634">
+        targetConnections="34ef1e89-f582-4b35-98e4-767ee6777634">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="288b8d40-e59a-44ed-8ff6-988acd810d24"
@@ -48,15 +48,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="023b6776-2341-495e-812f-4a070c669f81">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="28f87da1-3f0f-42dc-9299-3d9758a9b62e"
-          source="023b6776-2341-495e-812f-4a070c669f81"
-          target="860754ce-e6b6-407d-a98b-91ed075f148c">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_d9ae79ff-cd5b-4086-b91a-d269bf7b1e27.xml#d9ae79ff-cd5b-4086-b91a-d269bf7b1e27"/>
-      </sourceConnections>
       <bounds
           x="192"
           y="48"
@@ -128,7 +119,7 @@
       textAlignment="1">
     <bounds
         x="288"
-        y="312"
+        y="327"
         width="289"
         height="145"/>
     <children
