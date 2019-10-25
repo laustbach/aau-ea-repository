@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manuel eksport"
+    id="17ef6444-cf4e-493b-bc0c-40cf7befd240">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_90a991f2-076c-432b-8f50-de5598d41517.xml#90a991f2-076c-432b-8f50-de5598d41517"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_7cdfe3dc-2856-42a5-a962-1b80ba4fe087.xml#7cdfe3dc-2856-42a5-a962-1b80ba4fe087"/>
+</archimate:AccessRelationship>

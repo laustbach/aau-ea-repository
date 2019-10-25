@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webservice (? AUTH)"
+    id="9501beb6-f9a3-40b1-91f7-ad0817dd8efa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_90a991f2-076c-432b-8f50-de5598d41517.xml#90a991f2-076c-432b-8f50-de5598d41517"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7e1ae136-77a3-4bfd-a2bb-c46046ee5048.xml#7e1ae136-77a3-4bfd-a2bb-c46046ee5048"/>
+</archimate:ServingRelationship>

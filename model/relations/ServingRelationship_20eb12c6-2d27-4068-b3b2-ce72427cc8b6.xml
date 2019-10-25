@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(CERT AUTH)"
+    id="20eb12c6-2d27-4068-b3b2-ce72427cc8b6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_69652f24-dfee-42a6-ae02-c303099462ae.xml#69652f24-dfee-42a6-ae02-c303099462ae"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e5379b8c-7e9c-4c7d-9319-1e41d582ceef.xml#e5379b8c-7e9c-4c7d-9319-1e41d582ceef"/>
+</archimate:ServingRelationship>

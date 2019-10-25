@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LDAP"
+    id="05af6fe9-b769-49cf-a91e-914c293a8d6f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0e2e3cb5-4d3b-4b80-b4e0-f6118f95d78c.xml#0e2e3cb5-4d3b-4b80-b4e0-f6118f95d78c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_69652f24-dfee-42a6-ae02-c303099462ae.xml#69652f24-dfee-42a6-ae02-c303099462ae"/>
+</archimate:ServingRelationship>
