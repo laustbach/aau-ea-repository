@@ -2,10 +2,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SOAP webservice (key based AUTH)"
-    id="b322764d-14cc-466f-8d17-88ddfaebc4c9">
+    id="3aec76ea-2d8a-4364-989b-13b0c3587de0">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_15435312-dca6-4e25-bfe0-04d0b0ece312.xml#15435312-dca6-4e25-bfe0-04d0b0ece312"/>
+      href="ApplicationComponent_95cec3be-e013-4d3b-9584-b8c6b62d5118.xml#95cec3be-e013-4d3b-9584-b8c6b62d5118"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_90a991f2-076c-432b-8f50-de5598d41517.xml#90a991f2-076c-432b-8f50-de5598d41517"/>
