@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studerendes valgret   "
+    id="ef339cff-7481-4a1c-9ee3-c69b4e3a54df">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_02f398d5-58df-469a-8123-79b073acbf93.xml#02f398d5-58df-469a-8123-79b073acbf93"/>
+</archimate:FlowRelationship>

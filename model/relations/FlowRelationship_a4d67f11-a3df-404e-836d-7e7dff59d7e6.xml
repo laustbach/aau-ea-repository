@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studerende info + aktiv/inaktiv"
+    id="a4d67f11-a3df-404e-836d-7e7dff59d7e6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_09808790-62b0-4df7-879d-d1a935e2394b.xml#09808790-62b0-4df7-879d-d1a935e2394b"/>
+</archimate:FlowRelationship>

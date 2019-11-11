@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samtlige studiedata"
+    id="62de8eda-34ac-4cf2-b253-bc18f4fb3a41">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9c2cefca-0ad0-48ea-8ed5-d8df197ac338.xml#9c2cefca-0ad0-48ea-8ed5-d8df197ac338"/>
+</archimate:FlowRelationship>

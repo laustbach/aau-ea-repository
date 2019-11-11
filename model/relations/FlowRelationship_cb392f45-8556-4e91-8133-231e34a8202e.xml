@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uddannelse, fag &amp; resultat    "
+    id="cb392f45-8556-4e91-8133-231e34a8202e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c8bfa424-c4d6-4aae-a655-4428edfe71f7.xml#c8bfa424-c4d6-4aae-a655-4428edfe71f7"/>
+</archimate:FlowRelationship>

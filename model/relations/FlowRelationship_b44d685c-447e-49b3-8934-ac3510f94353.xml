@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansøgere &amp; ansøgning"
+    id="b44d685c-447e-49b3-8934-ac3510f94353">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_71ce1e5e-8db8-4f45-90dc-2caa045ca367.xml#71ce1e5e-8db8-4f45-90dc-2caa045ca367"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+</archimate:FlowRelationship>

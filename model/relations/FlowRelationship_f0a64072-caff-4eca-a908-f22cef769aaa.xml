@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studerende individ indberetning"
+    id="f0a64072-caff-4eca-a908-f22cef769aaa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_31732070-78c0-4e42-a51d-36f8f0d1f35c.xml#31732070-78c0-4e42-a51d-36f8f0d1f35c"/>
+</archimate:FlowRelationship>

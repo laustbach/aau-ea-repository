@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statens Uddannelsesstøtte (US2000)"
+    id="6b14de2c-5d07-4e49-b756-f390f4ee0c63"
+    documentation="Ministeriets system til styring af SU.&#xD;&#xA;&#xD;&#xA;Manuelle registreringer udføres af medarbejdere i Student Affairs, der har ansvaret for SU på CBS. &#xD;&#xA;Bemærk: Institutionernes kontrol af studieaktivitet udgår for studerende på videregående uddannelser, der starter den 1/7-2016 eller senere. Der implementeres automatisk studieaktivitetskontrol i US2000 baseret på data fra SIS/STADS systemerne.&#xD;&#xA;&#xD;&#xA;Kilde: https://uvm.dk/stil/administration-og-infrastruktur/systemrevision-af-studieadministrative-systemer/integrationer-og-gaeldende-graensefladebeskrivelser"/>

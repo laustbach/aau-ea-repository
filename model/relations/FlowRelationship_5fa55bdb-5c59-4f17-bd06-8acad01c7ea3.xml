@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uddanelser   "
+    id="5fa55bdb-5c59-4f17-bd06-8acad01c7ea3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bdf89344-45e2-40bf-a3d7-00b4580ff1a6.xml#bdf89344-45e2-40bf-a3d7-00b4580ff1a6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1c3e1d21-c49b-4df8-9d87-4717763a750b.xml#1c3e1d21-c49b-4df8-9d87-4717763a750b"/>
+</archimate:FlowRelationship>

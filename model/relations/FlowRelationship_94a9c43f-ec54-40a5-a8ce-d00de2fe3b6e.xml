@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abonnement vedligeholdelse"
+    id="94a9c43f-ec54-40a5-a8ce-d00de2fe3b6e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cdf948d7-98a5-402b-b76c-2d04b1c4a3b4.xml#cdf948d7-98a5-402b-b76c-2d04b1c4a3b4"/>
+</archimate:FlowRelationship>

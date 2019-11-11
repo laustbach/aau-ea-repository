@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uddannelse &amp; aktivitets data på personniveau"
+    id="1818884b-afa2-44a0-9107-be5a236e58ee">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6b14de2c-5d07-4e49-b756-f390f4ee0c63.xml#6b14de2c-5d07-4e49-b756-f390f4ee0c63"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adresse opdatering"
+    id="23040b1a-1ddb-45fc-94f2-e895138004c0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cdf948d7-98a5-402b-b76c-2d04b1c4a3b4.xml#cdf948d7-98a5-402b-b76c-2d04b1c4a3b4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_37b8edcb-c220-4678-9829-786d25d86efb.xml#37b8edcb-c220-4678-9829-786d25d86efb"/>
+</archimate:FlowRelationship>
