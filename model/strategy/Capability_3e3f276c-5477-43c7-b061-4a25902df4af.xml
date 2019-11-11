@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity &amp; Access Mgt"
+    id="3e3f276c-5477-43c7-b061-4a25902df4af"
+    documentation="What the organisation does to manage data on IT systems and applications about users. Managed data includes user objects, identity attributes, security entitlements and authentication factors."/>
