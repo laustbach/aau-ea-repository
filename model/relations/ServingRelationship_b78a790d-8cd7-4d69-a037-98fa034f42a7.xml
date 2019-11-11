@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web browser interface (CAS AUTH)"
+    id="b78a790d-8cd7-4d69-a037-98fa034f42a7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_95cec3be-e013-4d3b-9584-b8c6b62d5118.xml#95cec3be-e013-4d3b-9584-b8c6b62d5118"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0b7718d9-20e8-4ded-bbc5-95695e62d28e.xml#0b7718d9-20e8-4ded-bbc5-95695e62d28e"/>
+</archimate:ServingRelationship>
