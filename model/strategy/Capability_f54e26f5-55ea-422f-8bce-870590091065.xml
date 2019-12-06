@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Udfasning af studieordninger   "
+    name="Administration af afvikling af studieordning"
     id="f54e26f5-55ea-422f-8bce-870590091065"
-    documentation="Hvad organisationen gør for at sikre, at undervisere og administratorer trækker og trækker pensumskomponenter tilbage."/>
+    documentation="Hvad organisationen gør for at sikre, at undervisere og administratorer tilbagekalder og afvikler komponenter af en studieordning. "/>

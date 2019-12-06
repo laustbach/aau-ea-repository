@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAU Capability - Optag"
+    name="AAU Capability - Administration af optagelse af studerende"
     id="178b9887-d89f-4d62-a641-eb5ef6935aa0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -30,8 +30,8 @@
     <bounds
         x="36"
         y="36"
-        width="313"
-        height="116"/>
+        width="349"
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="14820442-2ed4-4a0f-95a8-98239e486a87"
@@ -43,7 +43,7 @@
           x="12"
           y="36"
           width="133"
-          height="53"/>
+          height="62"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_81515223-621e-471b-9632-0cbf0bcf65a5.xml#81515223-621e-471b-9632-0cbf0bcf65a5"/>
@@ -59,7 +59,7 @@
           x="168"
           y="36"
           width="133"
-          height="62"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_133a9d7c-5c02-45f0-931d-107b21d64eb7.xml#133a9d7c-5c02-45f0-931d-107b21d64eb7"/>

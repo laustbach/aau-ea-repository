@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAU Capability - Alumne"
+    name="AAU Capability - Alumners engagement"
     id="bdbd113e-5c24-4c91-a515-de91c73c8c38">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -39,7 +39,7 @@
     <bounds
         x="36"
         y="36"
-        width="325"
+        width="349"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -52,7 +52,7 @@
           x="20"
           y="33"
           width="133"
-          height="53"/>
+          height="64"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_ef5488c4-949d-4ae4-93f4-186a2d1a3023.xml#ef5488c4-949d-4ae4-93f4-186a2d1a3023"/>
@@ -68,7 +68,7 @@
           x="160"
           y="33"
           width="153"
-          height="53"/>
+          height="64"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_1a878f45-5a1a-4de3-ab8e-591aec358f75.xml#1a878f45-5a1a-4de3-ab8e-591aec358f75"/>
@@ -82,7 +82,7 @@
         fillColor="#f5deaa">
       <bounds
           x="20"
-          y="100"
+          y="108"
           width="133"
           height="53"/>
       <archimateElement

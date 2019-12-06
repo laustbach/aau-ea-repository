@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAU Capability - Administration af studerende"
+    name="AAU Capability - Studieadministration"
     id="42dcc4e0-ff9b-4cf6-bba8-5594cb6db575">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -67,7 +67,7 @@
         x="24"
         y="36"
         width="613"
-        height="229"/>
+        height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c2534e79-72af-4054-baf2-cf79eed5fc9b"
@@ -159,7 +159,7 @@
           x="34"
           y="103"
           width="155"
-          height="95"/>
+          height="126"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_c5f864e7-a99b-4d08-a8bb-1ac4e49a1724.xml#c5f864e7-a99b-4d08-a8bb-1ac4e49a1724"/>

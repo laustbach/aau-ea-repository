@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAU Capability - Karakter &amp; Bedømmelse"
+    name="AAU Capability - Bedømmelse af studerende"
     id="ffbca67b-6f7f-433c-84f4-0bfb0ad6fe5c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -93,7 +93,7 @@
           x="24"
           y="108"
           width="169"
-          height="53"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_2fb87cd8-dc98-4607-b602-08406aa31586.xml#2fb87cd8-dc98-4607-b602-08406aa31586"/>
