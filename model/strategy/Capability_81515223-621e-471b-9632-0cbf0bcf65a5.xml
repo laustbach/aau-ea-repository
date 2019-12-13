@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Studieansøgninger"
+    name="Administration af ansøgninger fra studerende"
     id="81515223-621e-471b-9632-0cbf0bcf65a5"
-    documentation="Hvad organisationen gør for at sikre, at studerendes ansøgninger vurderes / evalueres, herunder vurdering af realkompetencer, planlægning af interviews og clearingaktiviteter."/>
+    documentation="&quot;Hvad organisationen gør for at sikre, at ansøgninger bliver bedømt/vurderet, herunder vurdering af tidligere uddannelse, planlægning af samtaler og aktiviteter vedrørende fordeling af (ledige) pladser.&#xD;&#xA;&#xD;&#xA;Note: På dansk er &quot;&quot;clearing&quot;&quot; = pladsfordeling. Men i britisk sammenhæng handler det mere om fordeling af ledige pladser (altså efter studiepladser er fordelt i første omgang).&quot;"/>

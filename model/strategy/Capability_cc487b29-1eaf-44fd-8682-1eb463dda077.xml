@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Karakter &amp; bedømmelse    "
+    name="Bedømmelse af studerende"
     id="cc487b29-1eaf-44fd-8682-1eb463dda077"
-    documentation="Alle aktiviteter, der sigter mod at vurdere, om en studerende har opnået læringsresultaterne i læseplanen."/>
+    documentation="Alle aktiviteter beregnet til at bedømme hvorvidt en studerende har opnået studieordningens læringsmål."/>

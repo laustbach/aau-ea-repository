@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Optag "
+    name="Administration af optagelse af studerende"
     id="f905ef2a-faba-4d82-b595-1d7174cd510f"
-    documentation="Alle aktiviteter, der sigter mod at håndtere studerendes applikationer, tilbud på tilbud og kvoter."/>
+    documentation="&quot;Alle aktiviteter beregnet til at administrere ansøgninger fra studerende, tilbud af studiepladser samt kvoter.&#xD;&#xA;&#xD;&#xA;Note: 'Quota' henviser i britisk sammenhæng til kvoter af studerende fx med ressourcesvag baggrund. I dansk sammenhæng kan vi måske snakke om adgangsbegrænsning og dimensionering. Det eksisterer selvfølgelig også i Storbrittanien, men det bliver ikke fremhævet her nogen steder.&quot;"/>

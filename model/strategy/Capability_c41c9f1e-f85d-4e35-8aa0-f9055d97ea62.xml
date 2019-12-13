@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Administration af    indskrivning"
+    name="Administration af indskrivningsstatus"
     id="c41c9f1e-f85d-4e35-8aa0-f9055d97ea62"
-    documentation="Hvad organisationen gør for at sikre ændringen af ​​studerendes officielle status som medlemmer af organisationen som svar på anmodninger eller ændringer i situationen og i overensstemmelse med de relevante regler. Dette inkluderer evnerne til at afbryde / indstille studier i en periode, trække sig ud af studieenheder, studieprogrammer og / eller organisationen og overføre mellem enheder / moduler til studiet."/>
+    documentation="Hvad organisationen gør for at sikre, at studerendes officielle statusser som medlemmer af organisationen ændres som følge af anmodninger eller situationsændringer samt i overensstemmelse med gældende regler. Dette indbefatter færdigheder til at indstille/suspendere studier for en periode, at udmelde fra studieelementer, fra et helt studie og/eller fra hele organisationen, samt at foretage skift/overflytning mellem et studies elementer/moduler."/>

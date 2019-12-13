@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAU Capability - Support &amp; Rådgivning af studerende"
+    name="AAU Capability - Varetagelse af studie- og trivselsvejledning"
     id="bf078f8c-5bb7-40c5-9142-24691defb7c1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -131,7 +131,7 @@
           x="25"
           y="108"
           width="133"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_7ccecb48-4d01-4493-9040-0243d9a61ab7.xml#7ccecb48-4d01-4493-9040-0243d9a61ab7"/>
@@ -144,9 +144,9 @@
         lineColor="#000000"
         fillColor="#f5deaa">
       <bounds
-          x="189"
+          x="184"
           y="27"
-          width="133"
+          width="149"
           height="68"/>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -160,10 +160,10 @@
         lineColor="#000000"
         fillColor="#f5deaa">
       <bounds
-          x="189"
-          y="180"
+          x="528"
+          y="120"
           width="143"
-          height="51"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_aab2ba0a-a4ba-45ba-a93b-c43e2f0f89bc.xml#aab2ba0a-a4ba-45ba-a93b-c43e2f0f89bc"/>
@@ -224,10 +224,10 @@
         lineColor="#000000"
         fillColor="#f5deaa">
       <bounds
-          x="518"
-          y="108"
-          width="133"
-          height="53"/>
+          x="357"
+          y="160"
+          width="162"
+          height="102"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_4913c8b0-4aab-496e-8068-be086f0a9e5a.xml#4913c8b0-4aab-496e-8068-be086f0a9e5a"/>
@@ -243,7 +243,7 @@
           x="189"
           y="108"
           width="133"
-          height="53"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_419095c3-0aa9-46c9-b9af-9905eef1a4f6.xml#419095c3-0aa9-46c9-b9af-9905eef1a4f6"/>
@@ -256,9 +256,9 @@
         lineColor="#000000"
         fillColor="#f5deaa">
       <bounds
-          x="25"
+          x="168"
           y="180"
-          width="133"
+          width="165"
           height="82"/>
       <archimateElement
           xsi:type="archimate:Capability"

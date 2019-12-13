@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAU Capability - Studieudvikling &amp; Design"
+    name="AAU Capability - Administration af studieordning"
     id="f351baaf-76fb-441e-a68d-1dedd6bd5700">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -76,7 +76,7 @@
         x="24"
         y="24"
         width="697"
-        height="181"/>
+        height="217"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9dc83d10-4c61-43a7-8b6e-a925052ad99f"
@@ -120,7 +120,7 @@
           x="168"
           y="33"
           width="178"
-          height="53"/>
+          height="74"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_4f571a6a-1d2f-4f75-9048-39778feb1ec5.xml#4f571a6a-1d2f-4f75-9048-39778feb1ec5"/>
@@ -134,7 +134,7 @@
         fillColor="#f5deaa">
       <bounds
           x="360"
-          y="106"
+          y="132"
           width="169"
           height="53"/>
       <archimateElement
@@ -152,7 +152,7 @@
           x="360"
           y="33"
           width="145"
-          height="53"/>
+          height="74"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_518147ea-c2aa-4f30-8771-b1a4dbd4c93f.xml#518147ea-c2aa-4f30-8771-b1a4dbd4c93f"/>
@@ -166,7 +166,7 @@
         fillColor="#f5deaa">
       <bounds
           x="168"
-          y="106"
+          y="132"
           width="178"
           height="53"/>
       <archimateElement
@@ -184,7 +184,7 @@
           x="516"
           y="33"
           width="157"
-          height="53"/>
+          height="74"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_968b490b-f6a0-40c4-ac6c-1134b41bc226.xml#968b490b-f6a0-40c4-ac6c-1134b41bc226"/>

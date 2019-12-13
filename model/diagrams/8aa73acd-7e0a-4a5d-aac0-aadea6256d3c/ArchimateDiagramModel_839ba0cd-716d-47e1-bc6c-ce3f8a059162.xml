@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAU Capability - Studietilmelding"
+    name="AAU Capability - Indskrivning af studerende"
     id="839ba0cd-716d-47e1-bc6c-ce3f8a059162">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -39,8 +39,8 @@
     <bounds
         x="36"
         y="48"
-        width="349"
-        height="169"/>
+        width="385"
+        height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4bf679a9-a838-4324-8e95-431f746428cf"
@@ -51,8 +51,8 @@
       <bounds
           x="20"
           y="33"
-          width="149"
-          height="53"/>
+          width="173"
+          height="76"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_7ee313e0-ecc1-4934-8008-48e31c1653b6.xml#7ee313e0-ecc1-4934-8008-48e31c1653b6"/>
@@ -65,7 +65,7 @@
         lineColor="#000000"
         fillColor="#f5deaa">
       <bounds
-          x="180"
+          x="216"
           y="33"
           width="133"
           height="53"/>
@@ -81,10 +81,10 @@
         lineColor="#000000"
         fillColor="#f5deaa">
       <bounds
-          x="20"
-          y="100"
+          x="208"
+          y="96"
           width="149"
-          height="53"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_2ba768b5-ae39-47d1-907c-31080bd1a9cf.xml#2ba768b5-ae39-47d1-907c-31080bd1a9cf"/>

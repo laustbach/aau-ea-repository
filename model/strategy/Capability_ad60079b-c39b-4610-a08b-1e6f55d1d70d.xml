@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Administration af program flytninger   "
+    name="Administration af studieskift"
     id="ad60079b-c39b-4610-a08b-1e6f55d1d70d"
-    documentation="Hvad organisationen gør for at sikre en studerendes tilmelding til et program kan ophør, og tilmelding til et alternativt program udføres inden for begrænsninger, der kan pålægges med hensyn til tid, faglige krav, gebyrer eller andre administrative grunde."/>
+    documentation="Hvad organisationen gør for at sikre, at en studerendes indskrivning på en uddannelse kan ophøre, og indskrivning på en alternativ uddannelse udføres, indenfor de begrænsninger der kan være pålagt med hensyn til tid, faglige krav, gebyrer eller andre administrative årsager."/>

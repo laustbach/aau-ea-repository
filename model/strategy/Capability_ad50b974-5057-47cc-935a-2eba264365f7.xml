@@ -1,5 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Administration af Gradueringskvalificering     "
+    name="Administration af dimissionsberettigelse"
     id="ad50b974-5057-47cc-935a-2eba264365f7"
-    documentation="Hvad organisationen gør for at sikre, at de administrative og økonomiske (gæld) anliggender for studerende er i orden, og dem, der er berettigede til kandidateksamen, bestemmes. Dette inkluderer ikke akademiske resultater eller eksamens- / bedømmelseskomitéer."/>
+    documentation="Hvad organisationen gør for at sikre, at de studerendes administrative og økonomiske (gælds-)anliggender er bragt i orden, og at de studerende, som er dimissionsberettigede, er målrettede. Dette indbefatter ikke akademiske resultater eller eksamens- og bedømmelsesudvalg. "/>

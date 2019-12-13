@@ -39,7 +39,7 @@
     <bounds
         x="48"
         y="36"
-        width="565"
+        width="589"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -52,7 +52,7 @@
           x="34"
           y="34"
           width="171"
-          height="53"/>
+          height="63"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_dee51166-7386-4db4-ac60-7a100506741e.xml#dee51166-7386-4db4-ac60-7a100506741e"/>
@@ -83,8 +83,8 @@
       <bounds
           x="408"
           y="34"
-          width="133"
-          height="53"/>
+          width="157"
+          height="63"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_d7057f3a-86c3-49ef-bfcf-64ddd0b3afeb.xml#d7057f3a-86c3-49ef-bfcf-64ddd0b3afeb"/>
